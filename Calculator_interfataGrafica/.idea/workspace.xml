@@ -14,14 +14,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1a4slpphZUWXi85KGuk5RmfrlSz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="217" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.Calculator">
@@ -48,6 +56,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Calculator" />
@@ -67,6 +86,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -77,46 +97,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586006354388</updated>
+      <workItem from="1607957821086" duration="156000" />
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="322" y="0" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586006870104">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="322" y="0" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.738@0.0.1366.738" timestamp="1586006870104" />
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1586099092567">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1586099092567" />
-    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586096689040">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1586096689040" />
-    <state width="1323" height="93" key="GridCell.Tab.0.bottom" timestamp="1586101160961">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="93" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586101160961" />
-    <state width="1323" height="93" key="GridCell.Tab.0.center" timestamp="1586101160961">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="93" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586101160961" />
-    <state width="1323" height="93" key="GridCell.Tab.0.left" timestamp="1586101160961">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="93" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586101160961" />
-    <state width="1323" height="93" key="GridCell.Tab.0.right" timestamp="1586101160961">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="93" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586101160961" />
-    <state x="253" y="22" key="SettingsEditor" timestamp="1586007034074">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="253" y="22" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586007034074" />
-    <state x="379" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1586101054504">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="379" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586101054504" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
